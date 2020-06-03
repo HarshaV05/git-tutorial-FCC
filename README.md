@@ -7,3 +7,7 @@ This course was developed by Gwen Faraday. Check out her YouTube channel: https:
 🔗 Git Commands: https://gist.github.com/gwenf/19e5748a5391929e8e938a22c8a4b3f2
 🔗 Install git: https://www.atlassian.com/git/tutorials/install-git
 🔗 SSH Keys: https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+## other links:
+
+Link to the video: https://www.youtube.com/watch?v=RGOj5yH7evk
